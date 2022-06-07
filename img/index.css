@@ -1,0 +1,46 @@
+*{
+  
+}
+
+.quemsomos {
+    padding-bottom: 12px;
+}
+
+#quemsomos {
+    background-color: rgb(171, 171, 207);
+    text-align: center;
+    color: white;
+    padding-bottom: 12px;
+}
+
+    
+
+
+
+.descricao{
+    padding-top: 36px;
+    padding-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+.margin{
+   padding-top: 36px;
+   padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: bisque;
+
+}
+
+#selection {
+    margin: 0;
+    padding: 0;
+}
+
+.petlove {
+    
+}
